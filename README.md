@@ -1,7 +1,5 @@
 # AWS-LABS
 
-# AWS Labs README
-
 ## Lab 1 - Introduction to AWS IAM
 
 ### Overview
